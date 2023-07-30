@@ -1,4 +1,4 @@
-# HyeHye225
+# hyehye225
 HELLO, HUMAN
 
 ## 💻 Tech Stacks 💻
