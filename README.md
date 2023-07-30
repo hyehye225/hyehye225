@@ -9,5 +9,5 @@ HELLO, HUMAN
 ## ⌨ Tech log ⌨
 https://velog.io/@dmb225
 
-## 🚩 GitHub stats 🚩
+## 🚩 GitHub Stats 🚩
 [![hyehye225's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyehye225)](https://github.com/anuraghazra/github-readme-stats)
