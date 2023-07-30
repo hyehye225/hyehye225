@@ -7,6 +7,4 @@ HELLO, HUMAN
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/><img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 
 
-[![hyehye225's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=hyehye225&include_all_commits=true&show_icons=true&theme=cobalt)]
-(https://github.com/hyehye225/github-readme-stats)
+[![hyehye225's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyehye225)](https://github.com/anuraghazra/github-readme-stats)
