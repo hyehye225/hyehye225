@@ -11,3 +11,4 @@ https://velog.io/@dmb225
 
 ## 🚩 GitHub Stats 🚩
 [![hyehye225's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyehye225)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyehye225&hide_progress=true)
