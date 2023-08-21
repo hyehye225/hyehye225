@@ -11,7 +11,8 @@
 
 <br/>
 <h3 align="center">GitHub Stats</h3>
+<p align="center">
 <a href="https://github.com/hyehye225"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=hyehye225&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=true" /></a>
-<a href="https://github.com/hyehye225"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyehye225&layout=compact&theme=shadow_green&hide_border=true" /></a>
+<a href="https://github.com/hyehye225"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyehye225&layout=compact&theme=shadow_green&hide_border=true" /></a></p>
 
 
