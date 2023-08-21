@@ -1,6 +1,4 @@
 <h3 align="center"> hyehye225</h3>
-<h3 align="center"> HELLO, HUMAN</h3>
-
 
 <br/>
 <h3 align="center">💻 Tech Stacks 💻</h3>
@@ -9,9 +7,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyehye225&layout=compact)
 
-## ⌨ Velog ⌨
+<h3 align="center">⌨ Velog ⌨</h3>
 https://velog.io/@dmb225
 
-## 🚩 GitHub Stats 🚩
+<h3 align="center">🚩 GitHub Stats 🚩</h3>
 [![hyehye225's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyehye225)](https://github.com/anuraghazra/github-readme-stats)
 
