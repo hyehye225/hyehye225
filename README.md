@@ -11,8 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyehye225&layout=compact)
 </p>
 <br/>
-<h3 align="center">⌨ Velog ⌨</h3>
-<h3 align="center">https://velog.io/@dmb225</h3>
+
 
 <br/>
 <h3 align="center">🚩 GitHub Stats 🚩</h3>
