@@ -1,5 +1,5 @@
 <h3 align="center">hyehye225</h3>
-<p align="center"
+<p align="center">
 <a href="https://velog.io/@dmb225">
   <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dmb225"/>
 </a></p>
@@ -14,6 +14,6 @@
 
 <br/>
 <h3 align="center">GitHub Stats</h3>
-
+<p align="center">
 [![hyehye225's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyehye225)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
