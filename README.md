@@ -11,7 +11,9 @@
 
 <br/>
 <h3 align="center">GitHub Stats</h3>
-  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyehye225&repo=github-readme-stats" />
+</a>
 [![hyehye225's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyehye225)](https://github.com/anuraghazra/github-readme-stats)
 
 
