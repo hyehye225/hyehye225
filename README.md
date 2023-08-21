@@ -11,9 +11,7 @@
 
 <br/>
 <h3 align="center">GitHub Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hyehye225&repo=github-readme-stats" width="49.6%" />
-</p>
+<a href="https://github.com/hyehye225"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=hyehye225&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" /></a>
 
 
 
