@@ -4,6 +4,9 @@
 <br/>
 <h4 align="center">Back-End</h4>
 <p align="center"><img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/><img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/></p>
+<br/>
+<h4 align="center">DevOps</h4>
+<p align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" /></p>
 
 <br/>
 <p align="center">
