@@ -13,7 +13,7 @@
 
 <br/>
 <h4 align="center">Database</h4>
-<p align="center"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white"/><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white"/></p>
 
 <br/>
 <h4 align="center">DevOps</h4>
