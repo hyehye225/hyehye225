@@ -11,7 +11,9 @@
 
 <p align="center"><img src="https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo=csharp&logoColor=white" /><img alt="Spring" src ="https://img.shields.io/badge/.NET-5C2D91?&style=flat-square&logo=.net&logoColor=white"/></p>
 
-
+<br/>
+<h4 align="center">Database</h4>
+<p align="center"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white"/><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" /></p>
 
 <br/>
 <h4 align="center">DevOps</h4>
